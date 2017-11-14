@@ -13,3 +13,11 @@
 {"name":"array_tool","vers":"0.3.2","deps":[],"cksum":"a6ec3f3e3dbe3db469086697bacc820098fd77ea5de483ca486b4ac4349df79b","features":{},"yanked":false}
 {"name":"array_tool","vers":"0.3.3","deps":[],"cksum":"b4278ab459b8d06149cf82bfdb9e9af156e2a7fbbe19ec9d4dc3809c680996e8","features":{},"yanked":false}
 {"name":"array_tool","vers":"0.3.4","deps":[],"cksum":"aaff6e9977fe19923b4dfcc1902e2c046109c09f8e40ec39266d4c8fd7091342","features":{},"yanked":false}
+{"name":"array_tool","vers":"0.3.5","deps":[],"cksum":"7458ea0211fe133a34076e01b562dc4a8051f541a349997981de2b71474f3882","features":{},"yanked":false}
+{"name":"array_tool","vers":"0.3.6","deps":[],"cksum":"33fa2e0812a22100d0b79d879201123e5cc333f816d8db7074ea5aa263760164","features":{},"yanked":false}
+{"name":"array_tool","vers":"0.3.7","deps":[],"cksum":"9fa43d1111e167ed908ca44a6e68972ababdf5cb5b45dd67f5f01b501da36767","features":{},"yanked":false}
+{"name":"array_tool","vers":"0.3.8","deps":[],"cksum":"10ef6b307cf6a0a6c1a7e3dbb4e9315cc79d2e2d27c2d9674413738686b63e62","features":{},"yanked":false}
+{"name":"array_tool","vers":"0.3.9","deps":[],"cksum":"81c2cd8940d292a2778935f5389ca0fa8ca30558ec2b116b30e409ee2af70d65","features":{},"yanked":false}
+{"name":"array_tool","vers":"0.4.0","deps":[],"cksum":"d4e827f4271fd1cc7ccaa6009cf54c590385d828a04c2c6788966040497b7eca","features":{},"yanked":false}
+{"name":"array_tool","vers":"0.4.1","deps":[],"cksum":"1a07ccb27c611e5cda99e498e99ba71b3ecdb7db5df02096cef42a3df5b84542","features":{},"yanked":false}
+{"name":"array_tool","vers":"1.0.0","deps":[],"cksum":"c4d04a63852a38ecc1d95fe3bebc9e761df322daa07d6944afa924351bca1e61","features":{},"yanked":false}

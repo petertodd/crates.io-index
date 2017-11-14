@@ -11,3 +11,12 @@
 {"name":"gmp-mpfr-sys","vers":"0.5.1","deps":[],"cksum":"d6caa3f669d753b26a6eada32e9f0e3e903358d49b92daf1840320d8999035a1","features":{},"yanked":false}
 {"name":"gmp-mpfr-sys","vers":"0.5.2","deps":[],"cksum":"1a28b1d0299091aae5732c802bd13fa3d1f856110a3b4f503e1a809f31a3055f","features":{},"yanked":false}
 {"name":"gmp-mpfr-sys","vers":"0.6.0","deps":[],"cksum":"98868b8f0e3833ec9225124b858188789107ce3f18fddd05ed0336a72bf62ed9","features":{},"yanked":false}
+{"name":"gmp-mpfr-sys","vers":"1.0.0","deps":[],"cksum":"93fe50ce602774a9ec13b99cf624d9e474a2da75d2b17545bc00af1a52fe088d","features":{},"yanked":false}
+{"name":"gmp-mpfr-sys","vers":"1.0.1","deps":[],"cksum":"f1169839fff8c7dc88d0d5fe8b8febb04d7c14be12feb5453c45a1e5db7b92cc","features":{},"yanked":false}
+{"name":"gmp-mpfr-sys","vers":"1.0.2","deps":[],"cksum":"eb6dbc800913427ada45aba17ca93f7aaf89276b2e727fcfeaad000a29f64004","features":{"default":["mpfr","mpc"],"mpfr":[],"mpc":["mpfr"]},"yanked":false}
+{"name":"gmp-mpfr-sys","vers":"1.0.3","deps":[],"cksum":"0f0f2149b2f33847eb6c84034f320d53d804a11144f431e67ff68bbeedf48f09","features":{"mpc":["mpfr"],"mpfr":[],"default":["mpfr","mpc"]},"yanked":false}
+{"name":"gmp-mpfr-sys","vers":"1.0.4","deps":[],"cksum":"031e564d2978a6eefd843f73ab5da2b01e468ef60c67eba502b5c9795589c621","features":{"default":["mpfr","mpc"],"cnotest":[],"mpc":["mpfr"],"mpfr":[],"ctest":[]},"yanked":false}
+{"name":"gmp-mpfr-sys","vers":"1.0.5","deps":[],"cksum":"772d58b03f1b37571dcaa164d65074c91e73f394a5a0e9cc581c4e124a272113","features":{"ctest":[],"default":["mpfr","mpc"],"mpc":["mpfr"],"cnotest":[],"mpfr":[]},"yanked":false}
+{"name":"gmp-mpfr-sys","vers":"1.0.6","deps":[],"cksum":"ef8523b7f7cb9a64eaf2ffd1f354816f4260ae562785820052d75eda2e3e32af","features":{"ctest":[],"mpfr":[],"default":["mpfr","mpc"],"mpc":["mpfr"],"cnotest":[]},"yanked":false}
+{"name":"gmp-mpfr-sys","vers":"1.0.7","deps":[],"cksum":"e70904b7f05783a798d3db8301af00f6035c332e255da27107997b620db688a7","features":{"mpfr":[],"mpc":["mpfr"],"default":["mpfr","mpc"],"ctest":[],"cnotest":[]},"yanked":false}
+{"name":"gmp-mpfr-sys","vers":"1.0.8","deps":[],"cksum":"7f3658f07cb20bedad5948794638eba65124e3b11fe2f0a35c513d60dedc06fe","features":{"ctest":[],"default":["mpfr","mpc"],"cnotest":[],"mpfr":[],"mpc":["mpfr"]},"yanked":false}

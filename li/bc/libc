@@ -33,3 +33,15 @@
 {"name":"libc","vers":"0.2.19","deps":[],"cksum":"9e030dc72013ed68994d1b2cbf36a94dd0e58418ba949c4b0db7eeb70a7a6352","features":{"use_std":[],"default":["use_std"]},"yanked":false}
 {"name":"libc","vers":"0.2.20","deps":[],"cksum":"684f330624d8c3784fb9558ca46c4ce488073a8d22450415c5eb4f4cfb0d11b5","features":{"use_std":[],"default":["use_std"]},"yanked":false}
 {"name":"libc","vers":"0.2.21","deps":[],"cksum":"88ee81885f9f04bff991e306fea7c1c60a5f0f9e409e99f6b40e3311a3363135","features":{"default":["use_std"],"use_std":[]},"yanked":false}
+{"name":"libc","vers":"0.2.22","deps":[],"cksum":"babb8281da88cba992fa1f4ddec7d63ed96280a1a53ec9b919fd37b53d71e502","features":{"use_std":[],"default":["use_std"]},"yanked":false}
+{"name":"libc","vers":"0.2.23","deps":[],"cksum":"e7eb6b826bfc1fdea7935d46556250d1799b7fe2d9f7951071f4291710665e3e","features":{"use_std":[],"default":["use_std"]},"yanked":false}
+{"name":"libc","vers":"0.2.24","deps":[],"cksum":"38f5c2b18a287cf78b4097db62e20f43cace381dc76ae5c0a3073067f78b7ddc","features":{"use_std":[],"default":["use_std"]},"yanked":false}
+{"name":"libc","vers":"0.2.25","deps":[],"cksum":"b807d3f9f61fec68ffa8b10389fffb9235aa0ffa32935be864b2329de5846b74","features":{"use_std":[],"default":["use_std"]},"yanked":false}
+{"name":"libc","vers":"0.2.26","deps":[],"cksum":"30885bcb161cf67054244d10d4a7f4835ffd58773bc72e07d35fecf472295503","features":{"default":["use_std"],"use_std":[]},"yanked":false}
+{"name":"libc","vers":"0.2.27","deps":[],"cksum":"719aa0af4c241fa71d396ffdfe584aa758f08f35b4680ec3f03ecc2c3fe69b76","features":{"default":["use_std"],"use_std":[]},"yanked":false}
+{"name":"libc","vers":"0.2.28","deps":[],"cksum":"bb7b49972ee23d8aa1026c365a5b440ba08e35075f18c459980c7395c221ec48","features":{"use_std":[],"default":["use_std"]},"yanked":false}
+{"name":"libc","vers":"0.2.29","deps":[],"cksum":"8a014d9226c2cc402676fbe9ea2e15dd5222cd1dd57f576b5b283178c944a264","features":{"use_std":[],"default":["use_std"]},"yanked":false}
+{"name":"libc","vers":"0.2.30","deps":[],"cksum":"2370ca07ec338939e356443dac2296f581453c35fe1e3a3ed06023c49435f915","features":{"use_std":[],"default":["use_std"]},"yanked":false}
+{"name":"libc","vers":"0.2.31","deps":[],"cksum":"d1419b2939a0bc44b77feb34661583c7546b532b192feab36249ab584b86856c","features":{"default":["use_std"],"use_std":[]},"yanked":false}
+{"name":"libc","vers":"0.2.32","deps":[],"cksum":"56cce3130fd040c28df6f495c8492e5ec5808fb4c9093c310df02b0c8f030148","features":{"default":["use_std"],"use_std":[]},"yanked":false}
+{"name":"libc","vers":"0.2.33","deps":[],"cksum":"5ba3df4dcb460b9dfbd070d41c94c19209620c191b0340b929ce748a2bcd42d2","features":{"default":["use_std"],"use_std":[]},"yanked":false}

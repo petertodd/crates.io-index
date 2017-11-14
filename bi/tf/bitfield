@@ -10,3 +10,8 @@
 {"name":"bitfield","vers":"0.0.10","deps":[],"cksum":"086f160d0e86c4afd44a89f7f530e12b49d36e5ac08d75ba1f4517a1ef28fc86","features":{},"yanked":false}
 {"name":"bitfield","vers":"0.0.11","deps":[],"cksum":"ff94b6920038f15c8551c9387b8a8c9a86845106b425425c83738408e5d59b9a","features":{},"yanked":false}
 {"name":"bitfield","vers":"0.0.12","deps":[],"cksum":"771200cc2605183c22d2a18732e09914c4b993e3b7fcba1b0e6dc8d494d53f7c","features":{},"yanked":false}
+{"name":"bitfield","vers":"0.0.13","deps":[],"cksum":"0e422160b84252a068da0eb67e3203fb5806d592bc21be568b4927ad6c70b5b7","features":{},"yanked":false}
+{"name":"bitfield","vers":"0.10.0","deps":[],"cksum":"ab04967b5bd79da5b7b764ae8f01c004ab5d1869a3fd7bf7994247da226f374a","features":{},"yanked":false}
+{"name":"bitfield","vers":"0.11.0","deps":[],"cksum":"f989ae9b9fff3271a712a309fce47f0c46dd3476cb40074ddfcc06ad4a76cf6a","features":{},"yanked":false}
+{"name":"bitfield","vers":"0.12.0","deps":[],"cksum":"eb988c10184429ae27919881dd9ce0298b87557d12c508e664353eafb336580e","features":{},"yanked":false}
+{"name":"bitfield","vers":"0.12.1","deps":[],"cksum":"ce82aa1082cbfdaa1c5e4c44b832d3e7fcf8d672033553f4e3a32487901e05ac","features":{},"yanked":false}
